@@ -12,6 +12,18 @@
       "note": "",
       "type": "String",
       "value": "lh_bronze1"
+    },
+    {
+      "name": "lh_silver_name",
+      "note": "",
+      "type": "String",
+      "value": "lh_silver"
+    },
+    {
+      "name": "lh_gold_name",
+      "note": "",
+      "type": "String",
+      "value": "lh_gold"
     }
   ]
 }
