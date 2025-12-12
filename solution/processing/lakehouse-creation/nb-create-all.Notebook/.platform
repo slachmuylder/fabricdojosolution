@@ -2,11 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "nb_youtube_api",
-    "description": "New notebook"
+    "displayName": "nb-create-all"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "3500bdaf-da5d-bce8-4e8a-4bdec998e6d7"
+    "logicalId": "bbdb4224-4fbf-8749-449c-c333a1ebc5d1"
   }
 }
