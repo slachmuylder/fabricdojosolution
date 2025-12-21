@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Warehouse",
+    "displayName": "FabricDojo"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f029d599-85e6-a9da-4bb4-0b6fb2f570ed"
+  }
+}
